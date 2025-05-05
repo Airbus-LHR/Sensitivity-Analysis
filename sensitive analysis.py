@@ -23,7 +23,6 @@ def calculate_range(m_total, v, cd, eta, rho):
     c = m_total * g * np.sqrt((m_total * g)/(rho * params['A']))
     k = 0.5 * cd * rho * params['A']
     numerator = M - m_total * g * 20 - 0.5 * m_total * v ** 2
-    
     denominator = k*v**2 + c/v
     
     s = numerator / denominator / 1000
