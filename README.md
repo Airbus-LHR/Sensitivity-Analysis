@@ -11,17 +11,19 @@ This project is the accompanying code repository for the Edexcel EPQ research pr
 
 ## Set up Environment
 version: python 3
+# git clone
 ```bash  
-# 1. git clone  
 git clone https://github.com/yourusername/UAV-Range-Analysis.git  
 
-# 2. install dependencies  
+## install dependencies
+```bash
 pip install -r requirements.txt  
-
-# 3. install python libraries  
+## install python libraries
+```bash
 pip install matplotlib  
 sudo pip install seaborn  
 pip install pandas  
 pip install numpy  
 
-# 4. download the python code and run  
+## download the python code and run
+Relevant question please contact: Sunnylin07@outlook.com
