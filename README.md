@@ -14,16 +14,17 @@ version: python 3
 # git clone
 ```bash  
 git clone https://github.com/yourusername/UAV-Range-Analysis.git  
-
+```
 ## install dependencies
 ```bash
-pip install -r requirements.txt  
+pip install -r requirements.txt
+```
 ## install python libraries
 ```bash
 pip install matplotlib  
 sudo pip install seaborn  
 pip install pandas  
 pip install numpy  
-
+```
 ## download the python code and run
 Relevant question please contact: Sunnylin07@outlook.com
