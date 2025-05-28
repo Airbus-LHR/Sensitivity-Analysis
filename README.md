@@ -11,7 +11,7 @@ This project is the accompanying code repository for the Edexcel EPQ research pr
 
 ## Set up Environment
 version: python 3
-# git clone
+## git clone
 ```bash  
 git clone https://github.com/yourusername/UAV-Range-Analysis.git  
 ```
